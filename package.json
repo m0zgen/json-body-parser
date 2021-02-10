@@ -1,0 +1,18 @@
+{
+  "name": "json-body-parser",
+  "version": "1.0.0",
+  "description": "Parse received json data and show it in the browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "Yevgeniy Goncharov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
